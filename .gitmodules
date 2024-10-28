@@ -1,0 +1,3 @@
+[submodule "inr"]
+	path = inr
+	url = git@github.com:SSPICE-Lab/inr.git
